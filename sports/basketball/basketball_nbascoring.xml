@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sport version="0.3">
-    <name>Basketballâ€”xkoranate formula</name>
+    <name>Basketball NBA formula</name>
     <discipline>Basketball</discipline>
     <event/> <!-- only one scorinator is available for this sport -->
     <scorinator/>
@@ -19,7 +19,7 @@
         <int type="forceTieBreak">1</int>
     </paradigmOptions>
     <dataPoints name="score">
-        <dataPoint pos="0.00000000000â€>55</dataPoint>
+        <dataPoint pos="0.00000000000">55</dataPoint>
         <dataPoint pos="0.0309188892948">61</dataPoint>
         <dataPoint pos="0.0896510778224">66</dataPoint>
         <dataPoint pos="0.14838326635">70</dataPoint>
